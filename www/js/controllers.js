@@ -64,7 +64,7 @@ angular.module('starter.controllers', [])
 						},
 				url: 'https://api.wmata.com/Rail.svc/json/jStations',
 				headers: {
-					'api_key':'8c8a7586480d4837887731037d91fc92'
+					'api_key':'ssss'
 				}
 			}
 
